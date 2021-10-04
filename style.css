@@ -1,0 +1,39 @@
+.ok {
+  margin: 0px;
+}
+.a {
+  margin: 0px;
+  border-left: 5px solid rgb(98, 122, 173);
+  width: 394px;
+  height: auto;
+  box-sizing: border-box;
+}
+.b {
+  margin: auto;
+  display: block;
+  margin-bottom: 7px;
+}
+.c {
+  margin-top: 0px;
+  margin-left: 15px;
+  font-family: "Bebas Neue", cursive;
+  border-bottom: 2px solid rgb(98, 122, 173);
+  margin-bottom: 0px;
+  height: 32px;
+}
+.d {
+  font-family: "Mukta", sans-serif;
+  font-weight: 50px;
+  font-size: 20px;
+  margin-left: 15px;
+  line-height: 1.25;
+  margin-top: 0px;
+  color: rgba(63, 62, 62, 0.753);
+}
+.e {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(63, 62, 62, 0.753);
+  margin-left: 15px;
+  margin-top: 5px;
+}
